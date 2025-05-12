@@ -1,4 +1,3 @@
-# python-oop-polymorphism.
 # Python OOP Project: Classes, Inheritance & Polymorphism
 
 ## Description
